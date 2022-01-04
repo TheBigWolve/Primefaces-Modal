@@ -1,0 +1,13 @@
+com\ls\webapp\jsf3\controllers\LenguajeController.class
+com\ls\webapp\jsf3\entities\Producto.class
+com\ls\webapp\jsf3\entities\Categoria.class
+com\ls\webapp\jsf3\repositories\ProductoRepository.class
+com\ls\webapp\jsf3\services\ProductoService.class
+com\ls\webapp\jsf3\ProducerResources.class
+com\ls\webapp\jsf3\repositories\CrudRepository.class
+com\ls\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+com\ls\webapp\jsf3\ProducerEntityManager.class
+com\ls\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+com\ls\webapp\jsf3\services\ProductoServiceImpl.class
+com\ls\webapp\jsf3\converters\CategoriaConverter.class
+com\ls\webapp\jsf3\controllers\ProductoController.class
